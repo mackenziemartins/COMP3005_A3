@@ -9,7 +9,7 @@ Assignment 3, Question 1 for Carleton Universities COMP3005
 
 # running the application
   - in a command line interface, ensure you have python installed and run pip install psycopg2
-  - then open the 3005a3.py folder and modify the initial conn statement to connect the database (ln 4 t0 ln 8)
+  - then open the 3005a3.py folder and modify the initial conn statement to connect the database (ln 4 to ln 8)
   - run the file using your preferred python interpreter
   - to see changes made, use SELECT * FROM students; in pgAdmin
 
